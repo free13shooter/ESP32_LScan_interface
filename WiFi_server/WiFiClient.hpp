@@ -20,7 +20,7 @@
 #ifndef _WIFICLIENT_H_
 #define _WIFICLIENT_H_
 
-#include "IPAddress.h"
+#include "IPAddress.hpp"
 // #include "WiFiServer.h"
 // #include "Arduino.h"
 // #include "Client.h"

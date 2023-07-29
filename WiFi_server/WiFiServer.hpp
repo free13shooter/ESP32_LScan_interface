@@ -22,8 +22,8 @@
 //#include "Arduino.h"
 //#include "Server.h"
 //#include <server.h>
-#include "IPAddress.h"
-#include "WiFiClient.h"
+#include "IPAddress.hpp"
+#include "WiFiClient.hpp"
 //#include <cctype>
 
 using namespace std;
